@@ -10,7 +10,7 @@
 - Threading and Executor Service
 
 # For Contribution
-Reach out to me via [email](gokumu12@gmail.com)
+Reach out to me via gokumu12@gmail.com
 
 # License
 MIT
