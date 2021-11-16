@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Word</string>
+    <string name="addWord">addWord</string>
+    <string name="hint_for_edit_text">Type your word..</string>
+    <string name="button_save">Save</string>
+    <string name="warning_if_word_empty">Cannot Save, Empty</string>
+</resources>
